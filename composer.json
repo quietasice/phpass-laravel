@@ -14,8 +14,8 @@
     },
     "require": {
         "php": ">=5.4.0",
-        "illuminate/contracts": "^6.2",
-        "illuminate/support": "^6.2",
+        "illuminate/contracts": "^7.0",
+        "illuminate/support": "^7.0",
         "hautelook/phpass": "*"
     },
     "autoload": {
